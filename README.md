@@ -1,6 +1,7 @@
 <h1>desu</h1>
 
 This is a joke programming language but it works. It is just like brainfuck and sacred. The language is turing complete, so it can solve any computational problem in due time.<br>
+Requires a linux operating system, gcc, and makefile to build and use.<br>
 
 Operations:<br>
 > desuwa      Increments byte<br>
