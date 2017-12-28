@@ -4,7 +4,7 @@ This is a joke programming language but it works. It is just like brainfuck and 
 
 ## Building, Compiling, and Running
 
-Requires a linux operating system, gcc, and make.
+Requires a linux operating system, g++, gcc, and make.
 
 ```
 make
