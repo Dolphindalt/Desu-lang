@@ -1,4 +1,4 @@
-<h1>desu
+# desu
 
 This is a joke programming language but it works. It is just like brainfuck and sacred. The language is turing complete, so it can solve any computational problem in due time.
 
